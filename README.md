@@ -1,5 +1,8 @@
 # pytrends
 
+試しに使ってみたが、いまいち機能せず・・・
+値がトレンドと一致しない。
+
 ## Introduction
 
 Unofficial API for Google Trends
