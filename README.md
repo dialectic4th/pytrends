@@ -1,7 +1,5 @@
 # pytrends
-
-試しに使ってみたが、いまいち機能せず・・・
-値がトレンドと一致しない。
+- https://nbviewer.jupyter.org/github/dialectic4th/12Prophet/blob/master/5Pytrend_prophet.ipynb
 
 ## Introduction
 
